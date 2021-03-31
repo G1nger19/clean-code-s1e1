@@ -2,7 +2,7 @@
 body {
   background-color: #f8f8f8;
   color: #333;
-  font-family: Lato, sans-serif;
+  font-family: lato, sans-serif;
 }
 .aaa {
   width: 500px;
@@ -51,7 +51,7 @@ button {
   color: #888;
   font-size: 15px;
   width: 60px;
-  font-family: Lato, sans-serif;
+  font-family: lato, sans-serif;
   cursor: pointer;
 }
 button:hover {
@@ -75,9 +75,9 @@ input[type="text"] {
   height: 21px;
   padding: 0 9px;
   border: 1px solid #dDd;
-  background: #FFF;
+  background: #fff;
   border-radius: 6px;
-  font-family: Lato, sans-serif;
+  font-family: lato, sans-serif;
   color: #888;
 }
 input[type="text"]:focus {
@@ -93,7 +93,7 @@ input#new-task {
   width: 318px;
 }
 p > button:hover {
-  color: #0FC57C;
+  color: #0fc57c;
 }
 
 /* Task list */
@@ -123,7 +123,7 @@ li >    input[type="text"] {
   width: 226px
 }
 li > button.delete:hover {
-  color: #CF2323;
+  color: #cf2323;
 }
 button.delete img {
   height: 2em;
